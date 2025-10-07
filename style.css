@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+}
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+img {
+  width: 100%;
+}
+.bg-cream {
+  background-color: hsl(31, 66%, 93%);
+}
+.bg-yellow {
+  background-color: hsl(39, 100%, 71%);
+}
+.bg-purple {
+  background-color: hsl(256, 67%, 59%);
+}
+.bg-lila {
+  background-color: hsl(254, 88%, 90%);
+}
+.col-yellow {
+  color: hsl(39, 100%, 71%);
+}
+.col-purple {
+  color: hsl(256, 67%, 59%);
+}
+.col-white {
+  color: hsl(0, 0%, 100%);
+}
+
+.schedule-social-media-box, .manage-platforms, .maintain-schedule {
+  overflow: hidden;
+}
+
+.maintain-schedule div {
+  position: relative;
+  top: 10px;
+}
