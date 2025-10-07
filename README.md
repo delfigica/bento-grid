@@ -11,8 +11,8 @@ A simple, responsive solution to the **Frontend Mentor** challenge, built with *
 
 ## 🔗 Links
 
-- Live Site: [https://your-live-url.example](#)
-- Solution on Frontend Mentor: [https://www.frontendmentor.io/solutions/your-solution](#)
+- Live Site: https://delfigica.github.io/bento-grid/
+- Solution on Frontend Mentor: https://www.frontendmentor.io/solutions/html-and-tailwindcss-grid-page-t6QC7TUu29
 - Repository: https://github.com/delfigica/bento-grid
 
 ---
