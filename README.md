@@ -19,8 +19,10 @@ A simple, responsive solution to the **Frontend Mentor** challenge, built with *
 
 ## 📸 Designs
 
-- Mobile: `./design/mobile-design.jpg`
-- Desktop: `./design/desktop-design.jpg`
+- Mobile:
+![Mobile preview](./design/mobile-design.jpg)
+- Desktop:
+![Desktop preview](./design/desktop-design.jpg)
 
 ---
 
